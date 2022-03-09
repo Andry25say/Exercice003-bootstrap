@@ -1,0 +1,30 @@
+#en-tete {
+  background-color: #27242b;
+}
+.container-fluid {
+  background-color: #27242b;
+}
+.section1 {
+  margin-top: 0.04em;
+  overflow: hidden;
+}
+.section1 img {
+  transform: translateY(100px);
+}
+
+.d-block {
+  width: max-content;
+  margin: 12px auto;
+}
+.ms-0,
+.d-block {
+  border-radius: 35px;
+  width: 175px;
+  height: 55px;
+}
+ul {
+  list-style-type: none;
+}
+.mb-3 {
+  font-size: 3.5rem;
+}
